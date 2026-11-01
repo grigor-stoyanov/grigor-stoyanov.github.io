@@ -20,42 +20,49 @@
   },
   "featured": [
     {
-      "name": "netflix_demo",
-      "title": "Streaming Platform Demo",
-      "desc": "Streaming-style web app with React, Redux, custom hooks, authentication and a Node.js/Express back end.",
-      "tags": [
-        "React",
-        "JavaScript",
-        "Node.js"
-      ],
+      "name": "keep-tasks-mcp",
+      "title": "",
+      "desc": "",
+      "tags": [],
+      "lang": "Python",
+      "pushed_at": "2026-10-28T07:37:12Z",
+      "url": "https://github.com/grigor-stoyanov/keep-tasks-mcp"
+    },
+    {
+      "name": "ascii-webcam",
+      "title": "",
+      "desc": "",
+      "tags": [],
       "lang": "JavaScript",
-      "pushed_at": "2024-02-06T09:20:51Z",
-      "url": "https://github.com/grigor-stoyanov/netflix_demo"
+      "pushed_at": "2026-10-16T17:52:57Z",
+      "url": "https://github.com/grigor-stoyanov/ascii-webcam"
     },
     {
-      "name": "MyAnimeCatalog",
-      "title": "My Anime Catalog",
-      "desc": "Angular app for browsing and cataloguing anime, inspired by MyAnimeList. Built as a course project defence.",
-      "tags": [
-        "Angular",
-        "TypeScript"
-      ],
+      "name": "express-rest-api",
+      "title": "",
+      "desc": "",
+      "tags": [],
       "lang": "TypeScript",
-      "pushed_at": "2023-08-24T13:43:48Z",
-      "url": "https://github.com/grigor-stoyanov/MyAnimeCatalog"
+      "pushed_at": "2026-06-03T08:13:15Z",
+      "url": "https://github.com/grigor-stoyanov/express-rest-api"
     },
     {
-      "name": "angular-typescript",
-      "title": "Angular & TypeScript Course",
-      "desc": "Lessons, material and demos from the SoftUni Angular framework course.",
-      "tags": [
-        "Angular",
-        "TypeScript",
-        "HTML & CSS"
-      ],
-      "lang": "HTML",
-      "pushed_at": "2023-04-02T18:31:29Z",
-      "url": "https://github.com/grigor-stoyanov/angular-typescript"
+      "name": "recipie-book",
+      "title": "",
+      "desc": "",
+      "tags": [],
+      "lang": "TypeScript",
+      "pushed_at": "2026-02-24T16:39:20Z",
+      "url": "https://github.com/grigor-stoyanov/recipie-book"
+    },
+    {
+      "name": "wanderest-react",
+      "title": "",
+      "desc": "",
+      "tags": [],
+      "lang": "TypeScript",
+      "pushed_at": "2023-11-14T14:35:11Z",
+      "url": "https://github.com/grigor-stoyanov/wanderest-react"
     },
     {
       "name": "tasktell",
@@ -67,29 +74,6 @@
       "lang": "Python",
       "pushed_at": "2023-02-09T16:23:36Z",
       "url": "https://github.com/grigor-stoyanov/tasktell"
-    },
-    {
-      "name": "PythonOOP",
-      "title": "Python OOP",
-      "desc": "Object-oriented programming exercises and solutions in Python.",
-      "tags": [
-        "Python"
-      ],
-      "lang": "Python",
-      "pushed_at": "2021-08-24T21:17:49Z",
-      "url": "https://github.com/grigor-stoyanov/PythonOOP"
-    },
-    {
-      "name": "workoutplanner",
-      "title": "Workout Planner",
-      "desc": "Java Spring application that generates a personalised workout plan.",
-      "tags": [
-        "Java",
-        "Spring Boot"
-      ],
-      "lang": "Java",
-      "pushed_at": "",
-      "url": "https://github.com/grigor-stoyanov/workoutplanner"
     }
   ]
 }
