@@ -20,6 +20,15 @@
   },
   "featured": [
     {
+      "name": "disco-lights",
+      "title": "",
+      "desc": "",
+      "tags": [],
+      "lang": "Java",
+      "pushed_at": "2026-10-29T19:32:59Z",
+      "url": "https://github.com/grigor-stoyanov/disco-lights"
+    },
+    {
       "name": "keep-tasks-mcp",
       "title": "",
       "desc": "",
