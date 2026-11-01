@@ -1,0 +1,95 @@
+{
+  "content": {
+    "role": "Full stack developer, former navigator, AI student",
+    "lede": "I trained to navigate ships and ended up building software instead. By day I build web platforms and internal tools at DXC Technology. In my own time I tinker with whatever catches my curiosity, from LED light controllers and an ASCII webcam to my own AI tools.",
+    "a1t": "What I do",
+    "a1": "I work across the whole stack: interfaces people enjoy using, the APIs behind them, and the automation that keeps data moving. I like taking a messy process and turning it into something simple.",
+    "a2t": "How I got here",
+    "a2": "I studied maritime navigation at the Naval Academy in Varna. Plotting a course, reading instruments and staying calm when conditions change turned out to be good training for software. I retrained through SoftUni and have been shipping code professionally since 2023.",
+    "a3t": "What drives me",
+    "a3": "I learn by building. Most evenings go into side projects: a karaoke app, a disco light controller, an MCP server for Google Tasks. Next I'm heading into an MSc in Artificial Intelligence to go deeper into data and machine learning.",
+    "e1l": "2023 – now",
+    "e1t": "Full stack developer, DXC Technology",
+    "e1": "Front-end and back-end features for large client platforms: reusable UI components, CMS and API work, automated data updates, production support and code reviews.",
+    "e2l": "Internal tools",
+    "e2t": "Workflow & low-code apps",
+    "e2": "Workflow logic and UI improvements for internal risk and vulnerability tracking tools built on low-code platforms.",
+    "e3l": "2019",
+    "e3t": "BSc Maritime Navigation",
+    "e3": "Naval Academy, Varna. Navigation, mathematics and electronic systems, followed by a professional software engineering diploma."
+  },
+  "featured": [
+    {
+      "name": "netflix_demo",
+      "title": "Streaming Platform Demo",
+      "desc": "Streaming-style web app with React, Redux, custom hooks, authentication and a Node.js/Express back end.",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lang": "JavaScript",
+      "pushed_at": "2024-02-06T09:20:51Z",
+      "url": "https://github.com/grigor-stoyanov/netflix_demo"
+    },
+    {
+      "name": "MyAnimeCatalog",
+      "title": "My Anime Catalog",
+      "desc": "Angular app for browsing and cataloguing anime, inspired by MyAnimeList. Built as a course project defence.",
+      "tags": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lang": "TypeScript",
+      "pushed_at": "2023-08-24T13:43:48Z",
+      "url": "https://github.com/grigor-stoyanov/MyAnimeCatalog"
+    },
+    {
+      "name": "angular-typescript",
+      "title": "Angular & TypeScript Course",
+      "desc": "Lessons, material and demos from the SoftUni Angular framework course.",
+      "tags": [
+        "Angular",
+        "TypeScript",
+        "HTML & CSS"
+      ],
+      "lang": "HTML",
+      "pushed_at": "2023-04-02T18:31:29Z",
+      "url": "https://github.com/grigor-stoyanov/angular-typescript"
+    },
+    {
+      "name": "tasktell",
+      "title": "TaskTell",
+      "desc": "Python project built as the final project defence for the SoftUni software engineering programme.",
+      "tags": [
+        "Python"
+      ],
+      "lang": "Python",
+      "pushed_at": "2023-02-09T16:23:36Z",
+      "url": "https://github.com/grigor-stoyanov/tasktell"
+    },
+    {
+      "name": "PythonOOP",
+      "title": "Python OOP",
+      "desc": "Object-oriented programming exercises and solutions in Python.",
+      "tags": [
+        "Python"
+      ],
+      "lang": "Python",
+      "pushed_at": "2021-08-24T21:17:49Z",
+      "url": "https://github.com/grigor-stoyanov/PythonOOP"
+    },
+    {
+      "name": "workoutplanner",
+      "title": "Workout Planner",
+      "desc": "Java Spring application that generates a personalised workout plan.",
+      "tags": [
+        "Java",
+        "Spring Boot"
+      ],
+      "lang": "Java",
+      "pushed_at": "",
+      "url": "https://github.com/grigor-stoyanov/workoutplanner"
+    }
+  ]
+}
