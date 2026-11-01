@@ -1,13 +1,13 @@
 {
   "content": {
-    "role": "Full stack developer, former navigator, AI student",
-    "lede": "I trained to navigate ships and ended up building software instead. By day I build web platforms and internal tools at DXC Technology. In my own time I tinker with whatever catches my curiosity, from LED light controllers and an ASCII webcam to my own AI tools.",
+    "role": "Full Stack Software Developer · DXC Technology",
+    "lede": "Software developer with 3+ years of experience building web platforms and internal tools for enterprise and public-sector clients. I work across the full stack, from responsive front ends to APIs and automated data workflows, with a growing focus on cloud and artificial intelligence.",
     "a1t": "What I do",
     "a1": "I work across the whole stack: interfaces people enjoy using, the APIs behind them, and the automation that keeps data moving. I like taking a messy process and turning it into something simple.",
     "a2t": "How I got here",
     "a2": "I studied maritime navigation at the Naval Academy in Varna. Plotting a course, reading instruments and staying calm when conditions change turned out to be good training for software. I retrained through SoftUni and have been shipping code professionally since 2023.",
     "a3t": "What drives me",
-    "a3": "I learn by building. Most evenings go into side projects: a karaoke app, a disco light controller, an MCP server for Google Tasks. Next I'm heading into an MSc in Artificial Intelligence to go deeper into data and machine learning.",
+    "a3": "I learn by building. Outside work I develop side projects such as a karaoke app, a disco light controller and an MCP server for Google Tasks, and I'm currently deepening my knowledge of data and machine learning.",
     "e1l": "2023 – now",
     "e1t": "Full stack developer, DXC Technology",
     "e1": "Front-end and back-end features for large client platforms: reusable UI components, CMS and API work, automated data updates, production support and code reviews.",
